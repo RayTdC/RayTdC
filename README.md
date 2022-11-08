@@ -2,9 +2,9 @@
 ![Rengoku Kyojuro uploaded by White on We Heart It](https://user-images.githubusercontent.com/112362301/200620810-af01c0c3-aa86-4b90-a210-a1c63277804c.gif)
 <hr>
   <a href="https://github.com/RayTdC">
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/RayTdC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayTdC&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayTdC&layout=compact&langs_count=7&theme=onedark"/>
-
+    </div>
   
