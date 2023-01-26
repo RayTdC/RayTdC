@@ -3,6 +3,6 @@
 <hr>
   <a href="https://github.com/RayTdC">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RayTdC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maiconbre&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayTdC&layout=compact&langs_count=8&theme=dracula"/>
 
   
