@@ -4,8 +4,8 @@
  <div style="display: inline_flex" align = "center">
   <a href="https://github.com/RayTdC">
    
-   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RayTdC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RayTdC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 <a href="https://git.io/streak-stats">
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RayTdC&theme=chartreuse-dark"/>
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RayTdC&true&theme=dracula"/>
  </div>
