@@ -6,6 +6,5 @@
    
    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RayTdC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-<a href="https://git.io/streak-stats">
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RayTdC&true&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayTdC&layout=compact&langs_count=8&theme=dracula"/>
  </div>
